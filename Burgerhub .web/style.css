@@ -1,0 +1,459 @@
+.first-bg{
+    background-color: rgb(92 52 52);
+    height: 641px;
+    border: 2px bottom;
+
+}
+.nd-bg{
+    margin-top: -18px;
+    background-color: rgb(68, 64, 64);
+    height: 641px;
+}
+body{
+    margin: 0px;
+}
+.icon{
+    visibility: hidden;
+
+}
+ul{
+    padding-left: 27px;
+}
+ul li {
+    display: inline;
+    margin-top: 18px;
+    padding-left: 18px ;
+}
+
+ul li a{
+
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+ul li a:hover{
+
+    color: beige;
+
+}
+.navbar{
+
+    width: 85%;
+    margin: auto;
+    padding: 15px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.Card{
+
+    width: 500px;
+    margin-top: 90px;
+    margin-left: 120px;
+}
+.png{
+    width: 660px;
+    margin-top:  28px;
+    margin-left: -40px;
+    
+    
+}
+
+.left{
+
+    width: 50%;
+   float: left;
+
+}
+.right{
+
+    width: 50%;
+   float: left;
+}
+
+#icon-one{
+    margin: left -300px;
+    color: aliceblue;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    cursor: pointer;
+
+}
+#icon-two{
+
+    margin-left: -645px;
+    color: orange;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+}
+
+
+h4{
+    margin: 0px;
+}
+
+
+.one{
+
+
+    display: flex;
+    float: left;
+    margin-left: 85px;
+    margin-top: 50px;
+    height: 200px;
+    background-image: url(burgers/download.jpeg);
+    width: 325px;
+    height: 419px;
+    border-radius: 90px;
+    box-shadow: 7px 11px 2px #000;
+    border: 2px solid #2c2c2c;
+
+}
+.bone{
+
+    height: 279px;
+    margin-left: -1px;
+    margin-top: 20px;
+}
+h3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+#na{
+    margin-top: 267px;
+    margin-left: -200px;
+}
+.btnfirst{
+
+    height: 31px;
+    width: 126px;
+    border-radius: 32px;
+    color: rgb(255, 254, 254);
+    background-color: #F72929;
+    border-color: #F72929;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 342px;
+    margin-left: -142px;
+    text-decoration: none;
+    font-size: 13px;
+}
+
+
+.btnsec{
+    height: 31px;
+    width: 126px;
+    border-radius: 32px;
+    color: rgb(255, 254, 254);
+    background-color: #F72929;
+    border-color: #F72929;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 342px;
+    margin-left: -154px;
+    text-decoration: none;
+    font-size: 13px;
+
+}
+
+.btnthird{
+
+    height: 31px;
+    width: 126px;
+    border-radius: 32px;
+    color: rgb(255, 254, 254);
+    background-color: #F72929;
+    border-color: #F72929;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 342px;
+    margin-left: -154px;
+    text-decoration: none;
+    font-size: 13px;
+
+
+}
+.btnfirst:hover{
+
+    background-color: #F72929;
+    box-shadow: 0px 7px 29px #F72929 ;
+    border: 1px solid wheat;
+}
+.btnthird:hover{
+
+     background-color: #F72929;
+    box-shadow: 0px 7px 29px #F72929 ;
+    border: 1px solid wheat;
+}
+.btnsec:hover{
+   
+    background-color: #F72929;
+    box-shadow: 0px 7px 29px #F72929 ;
+    border: 1px solid wheat;
+    
+}
+.ccs{
+
+    height: 260px;
+    margin-top: 20px;
+}
+.node{
+    height: 247px;
+    margin-top: 23px;
+    margin-left: 22px;
+}
+
+    .node:hover{
+
+        transform: scale(1.1);
+        transition: transform .3s;
+    }
+#sa{
+    margin-top: 267px;
+        margin-left: -236px;
+}
+#mu{
+    margin-top: 267px;
+    margin-left: -196px;
+}
+#zn{
+    margin-top: 4px;
+    font-size: 13px;
+    
+}
+
+.two{
+
+    display: flex;
+    float: left;
+    margin-left: 85px;
+    margin-top: -45px;
+    height: 200px;
+    background-image: url(burgers/download.jpeg);
+    width: 325px;
+    height: 419px;
+    border-radius: 90px;
+    box-shadow: 7px 11px 2px #000;
+    border: 2px solid #2c2c2c;
+
+}
+.trd{
+    height: 590px;
+    background-color: rgb(68, 64, 64);
+}
+.git{
+
+    height: 260px;
+    margin-top: 30px;
+    text-align: center;
+
+}
+
+#za{
+
+    margin-top: 267px;
+    margin-left: -196px;
+
+}
+.kevv{
+    height: 290px;
+    margin-top: 15px;
+    text-align: center;
+}
+#bn{
+   
+    margin-top: 267px;
+    margin-left: -226px;
+}
+.cl{
+
+    height: 260px;
+    margin-top: 15px;
+    text-align: center;
+    margin-left: 23px;
+}
+#bv{
+
+    margin-top: 267px;
+    margin-left: -220px;
+}
+
+.bttnfirst{
+
+
+    height: 31px;
+    width: 126px;
+    border-radius: 32px;
+    color: rgb(255, 254, 254);
+    background-color: #F72929;
+    border-color: #F72929;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-weight: bold;
+    margin-top:312px;
+    margin-left: -124px;
+    text-decoration: none;
+    font-size: 13px;
+}
+.bttnfirst:hover{
+
+    background-color: #F72929;
+    box-shadow: 0px 7px 29px #F72929 ;
+    border: 1px solid wheat;
+}
+#hg{
+
+    text-decoration: none;
+    margin-top: 7px;
+    font-size: 13px;
+
+}
+
+.bttnsec{
+
+    height: 31px;
+    width: 126px;
+    border-radius: 32px;
+    color: rgb(255, 254, 254);
+    background-color: #F72929;
+    border-color: #F72929;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-weight: bold;
+    margin-top:312px;
+    margin-left: -133px;
+    text-decoration: none;
+    font-size: 13px;
+}
+#me{
+
+    text-decoration: none;
+    margin-top: 7px;
+    font-size: 13px;
+}
+.bttnsec:hover{
+    
+    background-color: #F72929;
+    box-shadow: 0px 7px 29px #F72929 ;
+    border: 1px solid wheat;
+}
+
+.bttnthird{
+
+    height: 31px;
+    width: 126px;
+    border-radius: 32px;
+    color: rgb(255, 254, 254);
+    background-color: #F72929;
+    border-color: #F72929;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 312px;
+    margin-left: -154px;
+    text-decoration: none;
+    font-size: 13px;
+}
+#mog{
+    margin-top: 6px;
+    font-size: 13px;
+}
+.bttnthird:hover{
+
+    background-color: #F72929;
+    box-shadow: 0px 7px 29px #F72929 ;
+    border: 1px solid wheat;
+}
+
+
+footer{
+    margin: 0px 0px;
+}
+
+.inner-footer{
+     margin: 0;
+     padding: 0;
+     height: 174px;
+     margin-top: -66px;
+     background-color: #272727;
+}
+
+.social-links{
+    display: flex;
+}
+
+.social-links ul{
+    padding: 10px;
+    display: flex;
+    width: 300px;
+    height: 30px;
+    margin: auto;
+}
+
+.social-items{
+    list-style: none;
+}
+
+.social-items a:hover{
+    color: rgb(94, 58, 58);
+}
+
+
+.social-items a{
+    padding: 10px 20px;
+    font-size: 30px;
+    color: rgb(221, 226, 226);
+    
+    
+
+}
+
+.quick-links{
+    display: flex;
+    width: 560px;
+    height: 70px;
+    margin: auto;
+    
+}
+
+.quick-links ul{
+    display: flex;
+    margin-top: 29px;
+    margin-left: 33px;
+
+}
+
+.quick-items a:hover{
+    color: #dee4e4;
+}
+.quick-items{
+    list-style: none;
+}
+
+.quick-items a{
+    text-decoration: none;
+    padding: 0px 15px;
+    font-size: 17px;
+    color: aliceblue;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.outer-footer{
+    padding: 10px;
+    text-align: center;
+    color: aliceblue;
+    background-color: #272727;
+    font-size: 18px;
+    height: 17px;
+}
+.out{
+    height: 33px;
+    background-color: #000;
+    margin-top: -30px;
+    color: wheat;
+}
